@@ -19,7 +19,7 @@
     "export": "next build && next export"
   },
   "dependencies": {
-    "@next/swc-darwin-x64": "^13.1.6",
+    "@next/swc-darwin-x64": "^12.3.1",
     "ethers": "^5.7.2",
     "next": "^12.3.1",
     "next-seo": "^5.11.1",
